@@ -17,7 +17,6 @@ section {
   background-image: url("./images/surfHero.jpg");
   background-repeat: no-repeat;
   background-position: center;
-  background-attachment: fixed;
   background-size: cover;
   height: 50vh;
 }

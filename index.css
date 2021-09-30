@@ -1,0 +1,24 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-color: rgba(233, 225, 225, 0.726);
+}
+body > section {
+  background-image: url("./images/surfHero.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 60vh;
+}
+
+/*# sourceMappingURL=index.css.map */
